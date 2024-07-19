@@ -2,4 +2,4 @@
 
 For more infomation, please see official site: [LangGraph-GUI.github.io](https://LangGraph-GUI.github.io)
 
-![](https://https://langgraph-gui.github.io/cover.webp)
+![](https://langgraph-gui.github.io/cover.webp)
