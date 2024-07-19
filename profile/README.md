@@ -2,7 +2,7 @@
 
 [LangGraph-GUI](https://github.com/LangGraph-GUI/LangGraph-GUI) is a user-friendly interface editor for Editing Node-Edge workflow Graph with LangGraph. It supports creating, editing, and running workflows using local language models by Ollama. And It can run with docker compose.
 
-*If you want to learn more about LangGraph, we also have learning LangGraph for dummy : [LangGraph-learn](https://github.com/LangGraph-GUI/LangGraph-learn)*
+*If you want to learn more about LangGraph, we also have [learning LangGraph for dummy](https://github.com/LangGraph-GUI/LangGraph-learn)*
 
 ![](https://raw.githubusercontent.com/LangGraph-GUI/LangGraph-GUI-frontend/main/cover.webp)
 
