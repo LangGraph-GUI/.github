@@ -1,8 +1,8 @@
 # LangGraph-GUI
 
-[LangGraph-GUI](https://github.com/LangGraph-GUI/LangGraph-GUI) is a user-friendly interface editor for Editing Node-Edge workflow Graph with LangGraph. It supports creating, editing, and running workflows using local language models by Ollama.
+[LangGraph-GUI](https://github.com/LangGraph-GUI/LangGraph-GUI) is a user-friendly interface editor for Editing Node-Edge workflow Graph with LangGraph. It supports creating, editing, and running workflows using local language models by Ollama. And It can run with docker compose.
 
-It can run in docker compose, see [LangGraph-GUI](https://github.com/LangGraph-GUI/LangGraph-GUI)
+*If you want to learn more about LangGraph, we also have learning LangGraph for dummy : [LangGraph-learn](https://github.com/LangGraph-GUI/LangGraph-learn)*
 
 ![](https://raw.githubusercontent.com/LangGraph-GUI/LangGraph-GUI-frontend/main/cover.webp)
 
@@ -14,7 +14,6 @@ The default [frontend](https://github.com/LangGraph-GUI/LangGraph-GUI-frontend) 
 
 If you want Qt frontend, see [LangGraph-GUI-Qt](https://github.com/LangGraph-GUI/LangGraph-GUI-Qt)
 
-*If you want to learn more about LangGraph, we have LangGraph for dummy : [LangGraph-learn](https://github.com/LangGraph-GUI/LangGraph-learn)*
 
 ## Side project
 We also have Qt version of [CrewAI-GUI](https://github.com/LangGraph-GUI/CrewAI-GUI)
