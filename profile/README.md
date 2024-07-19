@@ -8,7 +8,7 @@
 
 ## Components
 
-We also provide [electron wrapper](https://github.com/LangGraph-GUI/LangGraph-GUI)
+We also provide [electron wrapper](https://github.com/LangGraph-GUI/LangGraph-GUI?tab=readme-ov-file#electron-wrapper)
 
 The default [frontend](https://github.com/LangGraph-GUI/LangGraph-GUI-frontend) is ReactFlow and [backend](https://github.com/LangGraph-GUI/LangGraph-GUI-backend) is Flask
 
