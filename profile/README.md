@@ -10,10 +10,9 @@
 
 We also provide [electron wrapper](https://github.com/LangGraph-GUI/LangGraph-GUI?tab=readme-ov-file#electron-wrapper)
 
-The default [frontend](https://github.com/LangGraph-GUI/LangGraph-GUI-frontend) is ReactFlow and [backend](https://github.com/LangGraph-GUI/LangGraph-GUI-backend) is Flask
+The default set is [Reactflow frontend](https://github.com/LangGraph-GUI/LangGraph-GUI-frontend) and [flask backend](https://github.com/LangGraph-GUI/LangGraph-GUI-backend).
 
-If you want Qt frontend, see [LangGraph-GUI-Qt](https://github.com/LangGraph-GUI/LangGraph-GUI-Qt)
-
+If you want Qt version, see [LangGraph-GUI-Qt](https://github.com/LangGraph-GUI/LangGraph-GUI-Qt)
 
 ## Side project
 We also have Qt version of [CrewAI-GUI](https://github.com/LangGraph-GUI/CrewAI-GUI)
